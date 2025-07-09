@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib seaborn
 
 | Restaurant Types vs Online Orders | approx expense for two person |
 |----------------------------------|----------------------------------|
-| ![Heatmap](assets/heatmap.png)   | ![City Plot](assets/city_plot.png) |
+| ![Heatmap](heatmap.png)   | ![City Plot](approx_of_expenditure.png) |
 
 > Save your plots using `plt.savefig('assets/filename.png')` in the notebook to include them here.
 
